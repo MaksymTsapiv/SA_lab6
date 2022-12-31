@@ -1,0 +1,12 @@
+fire_prob: 0.04
+wall_prob: 0.09
+teleport_prob: 0.03
+move_prob: 1
+turn_prob: 1
+grid_size: 27
+learning_rate: 0.5
+discount_factor: 0.9
+exploration_rate: 0.7
+exploration_decay_rate: 0.99982
+max_timesteps_per_episode: 100
+max_episodes_to_run: 10000
